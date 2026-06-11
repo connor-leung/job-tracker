@@ -55,6 +55,11 @@ Copy the part after `/folders/` or where the `folder-id-is-found-here`.
 
 4. Approve the permissions prompt on first run (it needs Drive + Docs access).
 
+<img width="599" height="567" alt="Screenshot 2026-06-10 at 10 49 15 PM" src="https://github.com/user-attachments/assets/6e09f433-cf0e-492a-9b0c-d1cab6a65f5f" />
+<img width="598" height="567" alt="Screenshot 2026-06-10 at 10 49 26 PM" src="https://github.com/user-attachments/assets/5b632acb-86df-4af0-bee1-b4fc1c3f74b8" />
+<img width="599" height="566" alt="Screenshot 2026-06-10 at 10 49 38 PM" src="https://github.com/user-attachments/assets/4f8b6fa5-e037-4059-86cb-acc44c09e23a" />
+
+
 *(The date-stamping `onEdit` function runs automatically — no trigger needed.)*
 
 ## How to use it
