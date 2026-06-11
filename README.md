@@ -1,3 +1,6 @@
+
+
+
 # Job Application Tracker
 
 A simple Google Sheets + Apps Script tool that automatically creates an
@@ -11,6 +14,8 @@ and a clickable link gets written back to the row.
 - Saves the job description into a Google Doc in that folder
 - Writes the folder link back to your sheet
 - Auto-stamps the date when you start a row
+
+https://github.com/user-attachments/assets/d821a839-237c-47d6-8269-eea0f88e070e
 
 ## Setup
 
